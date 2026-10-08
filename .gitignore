@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.venv/
+venv/
+.DS_Store
+build/
+master_ufo/
+instance_ufo/
+sources/instance_ufos/
+sources/build.ninja
+sources/.ninja_log
+*.ttx

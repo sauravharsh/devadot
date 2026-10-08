@@ -1,0 +1,6 @@
+# This file lists people who have contributed to this project but who do not
+# hold copyright over the contributed material.
+#
+# Name <email>
+
+Saurav Harsh <sauravrharsh@gmail.com>

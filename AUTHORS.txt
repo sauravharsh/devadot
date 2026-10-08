@@ -1,0 +1,7 @@
+# This file lists all contributors who hold copyright over this font project.
+# This does not necessarily list everyone who has contributed code, since in
+# some cases, their employer may be the copyright holder.
+#
+# Name <email>
+
+Saurav Harsh <sauravrharsh@gmail.com>
